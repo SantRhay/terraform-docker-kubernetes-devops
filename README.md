@@ -5,7 +5,6 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
 ![Terraform](https://img.shields.io/badge/Infrastructure-Terraform-purple)
 
-
 Este projeto demonstra um fluxo completo de DevOps utilizando Docker, Kubernetes e CI/CD com GitHub Actions.
 
 ---
