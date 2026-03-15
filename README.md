@@ -1,6 +1,6 @@
 # 🚀 DevOps Project - Docker + Kubernetes + CI/CD
 
-![CI/CD](https://img.shields.io/badge/CI-CD-GitHub_Actions-blue)
+![CI/CD](https://github.com/SantRhay/terraform-docker-kubernetes-devops/actions/workflows/docker-image.yml/badge.svg)
 ![Docker](https://img.shields.io/badge/Docker-Container-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
 ![Terraform](https://img.shields.io/badge/Infrastructure-Terraform-purple)
